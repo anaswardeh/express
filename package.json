@@ -1,0 +1,29 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Node.JS matching and dating application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anaswardeh/express.git"
+  },
+  "keywords": [
+    "friendfinder",
+    "express",
+    "node.js"
+  ],
+  "author": "Mohammed A. Wardeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anaswardeh/express/issues"
+  },
+  "homepage": "https://github.com/anaswardeh/express#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
